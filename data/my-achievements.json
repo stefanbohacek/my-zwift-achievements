@@ -1,0 +1,113 @@
+{
+  "General achievements": {
+    "show": true,
+    "badges": [
+      "Habitual",
+      "Addicted",
+      "Working from Home",
+      "You're Popular",
+      "Ride On",
+      "Big Fan",
+      "Fan Club",
+      "Paparazzi",
+      "Into the Wind",
+      "Statistician",
+      "Paired",
+      "Sweat!"
+    ]
+  },
+  "Cycling achievements": {
+    "show": true,
+    "badges": [
+      "Can't Stop Now",
+      "Marathoner",
+      "100 Clicks",
+      "No Big Deal",
+      "Whoa Nelly",
+      "Speed Demon",
+      "Daredevil",
+      "Sprinter Apprentice",
+      "Lit",
+      "Circuit Braker",
+      "Master Draftsman",
+      "Jelly",
+      "Warmed Up",
+      "Hothead",
+      "On Fire!",
+      "Portal Climber",
+      "Climb Portal Pro",
+      "Legs of Steel",
+      "Avid Climber"
+    ]
+  },
+  "Running achievements": {
+    "show": false,
+    "badges": []
+  },
+  "Extra credit": {
+    "show": true,
+    "badges": [
+      "Just scrape it"
+    ]
+  },
+  "Route achievements": {
+    "show": true,
+    "badges": [
+      "Volcano Circuit",
+      "Hilly Route",
+      "Flat Route",
+      "Volcano Circuit CCW",
+      "Volcano Flat",
+      "Two Bridges Loop",
+      "Triple Loops",
+      "Cobbled Climbs",
+      "The Fan Flats",
+      "The 6 Train",
+      "2019 UCI Worlds Harrogate Circuit",
+      "Queen's Highway",
+      "Duchy Estate",
+      "Tour Of Tewit Well",
+      "Champs-Elysee",
+      "Lutece Express",
+      "Sea To Tree",
+      "Farmland Loop",
+      "Valley To Mountaintop",
+      "Rooftop Rendezvous",
+      "Twilight Harbod",
+      "Mech Isle Loop",
+      "Bridges And Boardwalks",
+      "Gotham Grind",
+      "Glasgow Crit Circuit",
+      "Loch Loop",
+      "Accelerate To Elevate",
+      "Going Coastal",
+      "Temple Trek",
+      "Castle Crit",
+      "Loop De Loop",
+      "Mountain Mash",
+      "Innsbruckring",
+      "Railways and Rooftops",
+      "Electric Loop",
+      "Greater London Flat",
+      "London Classique",
+      "Grand Central Circuit",
+      "Twilight Harbor",
+      "Road to Sky",
+      "Park Perimeter Loop",
+      "Oh Hill No",
+      "Sleepless City",
+      "Three Village Loop",
+      "Fine and Sandy",
+      "Island Outskirts",
+      "City and the Sgurr",
+      "Sprinter's Playground",
+      "Beach Island Loop",
+      "Kappa Quest",
+      "Spirit Forest",
+      "Two Village Loop",
+      "Flatland Loop",
+      "Jungle Circuit",
+      "Coastal Crown Loop"
+    ]
+  }
+}
