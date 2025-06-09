@@ -46,11 +46,7 @@
   },
   "Extra credit": {
     "show": true,
-    "badges": [
-      "Just scrape it",
-      "You're famous",
-      "Bigger than Jensie"
-    ]
+    "badges": ["Just scrape it", "You're famous", "Bigger than Jensie"]
   },
   "Route achievements": {
     "show": true,
@@ -162,7 +158,14 @@
       "Figure 8",
       "The Classic",
       "Loopin Lava",
-      "Coast to Coast"
+      "Coast to Coast",
+      "Triple Twist",
+      "Outer Scotland",
+      "Petite Douleur",
+      "London Flat",
+      "Makuri Madness",
+      "Downtown Eruption",
+      "Scotland Smash"
     ]
   }
 }
